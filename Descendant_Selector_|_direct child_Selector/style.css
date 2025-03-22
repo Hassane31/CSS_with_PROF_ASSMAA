@@ -1,3 +1,13 @@
 div h1 strong{
-    color:yellow;
+    color:blue;
+}
+div h2 strong{
+    color: red;
+}
+div>h1{
+    color: green;
+}
+
+.c1 .c2 #id1 {
+    color: red;
 }
