@@ -1,0 +1,15 @@
+#mrgn{
+    border: solid ;
+text-align: center;
+}
+#brdr {
+    border: solid skyblue 40px;
+}
+
+#padng{
+border: solid green 40px;
+background-color: gray;
+}
+#cntnt{
+    border: solid;
+}
