@@ -1,15 +1,43 @@
-#mrgn{
-    border: solid ;
-text-align: center;
-}
-#brdr {
-    border: solid skyblue 40px;
+#mrgn {
+    width: 80%;
+    height: 670px;
+    background: darkgray;
+    margin-top: 2%;
+    margin-left: 10%;
+    display: block;
+    justify-content: center;
+    align-items: center;
 }
 
-#padng{
-border: solid green 40px;
-background-color: gray;
+#brdr {
+    width: 90%;
+    height: 560px;
+    background: blue;
+    margin-top: 3%;
+    margin-left: 5%;
+
 }
-#cntnt{
-    border: solid;
+
+#padng {
+    width: 90%;
+    height: 435px;
+    background: rgba(239, 239, 239, 781);
+    margin-top: 3%;
+    margin-left: 5%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+#cntnt {
+    width: 90%;
+    height: 320px;
+    background-color: white;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+div {
+    text-align: center;
+    border: black solid;
 }
