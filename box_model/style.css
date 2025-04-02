@@ -2,8 +2,7 @@
     width: 80%;
     height: 670px;
     background: darkgray;
-    margin-top: 2%;
-    margin-left: 10%;
+  margin: auto;
     display: block;
     justify-content: center;
     align-items: center;
@@ -13,8 +12,7 @@
     width: 90%;
     height: 560px;
     background: blue;
-    margin-top: 3%;
-    margin-left: 5%;
+    margin: auto;
 
 }
 
@@ -22,8 +20,7 @@
     width: 90%;
     height: 435px;
     background: rgba(239, 239, 239, 781);
-    margin-top: 3%;
-    margin-left: 5%;
+   margin: auto;
     display: block;
     justify-content: center;
     align-items: center;
@@ -33,11 +30,13 @@
     width: 90%;
     height: 320px;
     background-color: white;
-    margin-top: 3%;
-    margin-left: 5%;
+   margin: auto;
 }
 
 div {
     text-align: center;
     border: black solid;
+}
+h2{
+    border: solid;
 }
